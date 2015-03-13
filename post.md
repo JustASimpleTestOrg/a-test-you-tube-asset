@@ -42,8 +42,7 @@ sadfasd
 
 ```javascript,linenums=true
 //Code blocks for javascript
-function() {
-  var coolness = true
+function() {sdafasdf
 }
 ```
 
